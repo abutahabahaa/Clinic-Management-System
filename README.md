@@ -99,3 +99,40 @@ The system is divided into three main packages:
 1. Clone the repository:
 ```bash
 git clone https://github.com/abutahabahaa/Clinic-Management-System.git
+```
+
+
+## 👥 Project Team
+
+| Name          | Role                            |
+| ------------- | ------------------------------- |
+| Bahaa Abutaha | Project Manager, Client Liaison |
+| Ahmed         | Backend Developer, Database     |
+| Mohammed      | Frontend Developer, UI/UX       |
+| Mousa         | Testing and Documentation       |
+
+## 🧪 Testing
+All modules passed the following tests:
+| Function                | Status |
+| ----------------------- | ------ |
+| Login                   | ✅ Pass |
+| Book Appointment        | ✅ Pass |
+| Handle Unavailable Slot | ✅ Pass |
+| Generate Reports        | ✅ Pass |
+| Handle Empty Reports    | ✅ Pass |
+
+#### Testing types:
+
+- Unit Testing
+
+- Integration Testing
+
+- User Acceptance Testing
+
+## 🪪 License
+This project is for academic use only.
+
+---
+
+Let me know if you want a version with a badge header, deployment instructions, or live screenshots.
+
