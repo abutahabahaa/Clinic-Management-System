@@ -4,7 +4,7 @@ A comprehensive **Clinic Management System** developed as a course project for *
 
 ## 📌 Table of Contents
 
-- [Project Overview](#📖project-overview)
+- [Project Overview](#project-overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
